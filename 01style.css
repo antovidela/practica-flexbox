@@ -1,0 +1,24 @@
+body {
+    background-color: antiquewhite;
+    font-family:   font-family: 'Montserrat', sans-serif; ;
+}
+
+h1 {
+    font-size: 120px;
+}
+
+p {
+    font-size: 48px;
+}
+
+.c1 {
+    color: aquamarine;
+}
+
+.c2 {
+    color:blueviolet
+}
+
+.c3 {
+    color:crimson
+}
